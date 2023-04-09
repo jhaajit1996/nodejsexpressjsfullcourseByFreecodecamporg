@@ -1,0 +1,15 @@
+{
+  "name": "nodejsexpresssjsfullcoursebyfreecodecamporg",
+  "version": "1.0.0",
+  "description": "testing the tester",
+  "main": "01_global.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "author": "Ajit Jha",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
